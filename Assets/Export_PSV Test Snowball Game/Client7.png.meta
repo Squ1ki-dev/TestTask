@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 6fb03e484fd627b47ac5db285d5d6ba1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5900902349871756199
+    second: Client7_0
+  - first:
+      213: -5664878530174682448
+    second: Client7_1
+  - first:
+      213: -427533900548739378
+    second: Client7_2
+  - first:
+      213: -5253067240457840255
+    second: Client7_3
+  - first:
+      213: 7278363485559344738
+    second: Client7_4
+  - first:
+      213: 5217370606988239364
+    second: Client7_5
+  - first:
+      213: 5519971002147851428
+    second: Client7_6
+  - first:
+      213: 4204179059410281195
+    second: Client7_7
+  - first:
+      213: -640824830102128809
+    second: Client7_8
+  - first:
+      213: 7719877647324637204
+    second: Client7_9
+  - first:
+      213: 7283151013142851022
+    second: PumaFamily/PumaDaughter/Body
+  - first:
+      213: 8268429280631933440
+    second: PumaFamily/PumaDaughter/EyesClose
+  - first:
+      213: 7810234624911034659
+    second: PumaFamily/PumaDaughter/EyesOpen
+  - first:
+      213: -8040765076388641727
+    second: PumaFamily/PumaDaughter/Foot
+  - first:
+      213: -428660635725551422
+    second: PumaFamily/PumaDaughter/HalfCloseEyes
+  - first:
+      213: -556411595879862034
+    second: PumaFamily/PumaDaughter/Hand
+  - first:
+      213: 6844258245294555058
+    second: PumaFamily/PumaDaughter/Hat
+  - first:
+      213: -4830856538725706542
+    second: PumaFamily/PumaDaughter/Head
+  - first:
+      213: -8281812753313038615
+    second: PumaFamily/PumaDaughter/Leg
+  - first:
+      213: -4822732842762274337
+    second: PumaFamily/PumaDaughter/Tail
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Client7_0
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 406
+        width: 174
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3bf524c6734e150800000000000000
+      internalID: 5900902349871756199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 518
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba73399dfe4261b0800000000000000
+      internalID: -5664878530174682448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 475
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceea50ce28111af0800000000000000
+      internalID: -427533900548739378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_3
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 418
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d44f3d2b5917b0800000000000000
+      internalID: -5253067240457840255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_4
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 284
+        width: 91
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e40f61701f10560800000000000000
+      internalID: 7278363485559344738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 340
+        width: 196
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402291b9ce2d76840800000000000000
+      internalID: 5217370606988239364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 340
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acca716160ea9c40800000000000000
+      internalID: 5519971002147851428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 25
+        width: 376
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be22940749e385a30800000000000000
+      internalID: 4204179059410281195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 226
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757338656355b17f0800000000000000
+      internalID: -640824830102128809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client7_9
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 25
+        width: 118
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418634e81d3822b60800000000000000
+      internalID: 7719877647324637204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Body
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 25
+        width: 376
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde7e73243f21560800000000000000
+      internalID: 7283151013142851022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/EyesClose
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 418
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a418a6f9c5fb270800000000000000
+      internalID: 8268429280631933440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/EyesOpen
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 518
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329474ec207836c60800000000000000
+      internalID: 7810234624911034659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Foot
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 226
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1440d7bc3c6796090800000000000000
+      internalID: -8040765076388641727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/HalfCloseEyes
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 340
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8a2664c671d0af0800000000000000
+      internalID: -428660635725551422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Hand
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 284
+        width: 91
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee03caef99a3748f0800000000000000
+      internalID: -556411595879862034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Hat
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 406
+        width: 174
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bff1d59c90bbfe50800000000000000
+      internalID: 6844258245294555058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Head
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 475
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49160b29955fcb0800000000000000
+      internalID: -4830856538725706542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Leg
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 340
+        width: 196
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eef9760e27111d80800000000000000
+      internalID: -8281812753313038615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumaFamily/PumaDaughter/Tail
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 25
+        width: 118
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd97b8c0806321db0800000000000000
+      internalID: -4822732842762274337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

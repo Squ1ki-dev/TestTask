@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Client_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 1758e19147f74a24db3bceaa63d477f9, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 38c70ee0e28345549b04fb36a7dc3c2d, type: 2}
+  - {fileID: 2100000, guid: aff042bfeea8a704786b269e78a9608e, type: 2}
+  - {fileID: 2100000, guid: a8a10f7b6929b5a449c51fabd2fdd918, type: 2}
+  - {fileID: 2100000, guid: 1663fbe11aa5d354e87dfbbd1b23b452, type: 2}
+  - {fileID: 2100000, guid: d97b4e9e7800f9046a8793271e05c9ce, type: 2}
+  - {fileID: 2100000, guid: f803b80ce1ddb1d46a95911e013e5fe7, type: 2}
+  - {fileID: 2100000, guid: c115e506658b43940a96ae9f3a98a442, type: 2}
+  - {fileID: 2100000, guid: 568c4b63fe943084e90bb59fc58e1389, type: 2}

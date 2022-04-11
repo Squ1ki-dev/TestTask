@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 924f401754db9ca4e8e59dafa1773b48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6919329601511542843
+    second: Client8_0
+  - first:
+      213: -260270954404975563
+    second: Client8_1
+  - first:
+      213: -7507493950577627578
+    second: Client8_2
+  - first:
+      213: -7661980865517295725
+    second: Client8_3
+  - first:
+      213: -6204719601833418366
+    second: Client8_4
+  - first:
+      213: -3292859010746265157
+    second: Client8_5
+  - first:
+      213: 1753298570408671389
+    second: Client8_6
+  - first:
+      213: 1321522606098525677
+    second: Client8_7
+  - first:
+      213: -7621067737527344249
+    second: Client8_8
+  - first:
+      213: 6540735630245299493
+    second: Client8_9
+  - first:
+      213: 5541853469458444299
+    second: Client8_10
+  - first:
+      213: 5597641557267862577
+    second: Client8_11
+  - first:
+      213: -9134120428957190599
+    second: RaccoonFamily/RaccoonSon/Body
+  - first:
+      213: 365435712905919083
+    second: RaccoonFamily/RaccoonSon/EyesClose
+  - first:
+      213: 930646423508922776
+    second: RaccoonFamily/RaccoonSon/EyesOpen
+  - first:
+      213: -1466353901365172313
+    second: RaccoonFamily/RaccoonSon/Foot
+  - first:
+      213: -48660754888453844
+    second: RaccoonFamily/RaccoonSon/HalfCloseEyes
+  - first:
+      213: -194700147470554025
+    second: RaccoonFamily/RaccoonSon/Hand
+  - first:
+      213: -1299730386374022754
+    second: RaccoonFamily/RaccoonSon/Head
+  - first:
+      213: -7808303364563190674
+    second: RaccoonFamily/RaccoonSon/Leg
+  - first:
+      213: -5896852304289781659
+    second: RaccoonFamily/RaccoonSon/Tail
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Client8_0
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 386
+        width: 240
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf2f0a336a99ff90800000000000000
+      internalID: -6919329601511542843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 386
+        width: 52
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ce65922f4536cf0800000000000000
+      internalID: -260270954404975563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 472
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e2d62470600d790800000000000000
+      internalID: -7507493950577627578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 470
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397600b6ffc2ba590800000000000000
+      internalID: -7661980865517295725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 469
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e0d9656864e9a0800000000000000
+      internalID: -6204719601833418366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 386
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb156011d2a6d42d0800000000000000
+      internalID: -3292859010746265157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 397
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b86aa2c7f45810800000000000000
+      internalID: 1753298570408671389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 396
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deda62bfecdf65210800000000000000
+      internalID: 1321522606098525677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 401
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832e7755478c3690800000000000000
+      internalID: -7621067737527344249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250382c66c55ca50800000000000000
+      internalID: 6540735630245299493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 244
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0036545e5e98ec40800000000000000
+      internalID: 5541853469458444299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Client8_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 12
+        width: 69
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345ae8b651dead40800000000000000
+      internalID: 5597641557267862577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Body
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 401
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9363e505dd51d3180800000000000000
+      internalID: -9134120428957190599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/EyesClose
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 244
+        width: 75
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6abfff38d9421500800000000000000
+      internalID: 365435712905919083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/EyesOpen
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 396
+        width: 136
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891bcbccdf15aec00800000000000000
+      internalID: 930646423508922776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Foot
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 470
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ee1255e676abe0800000000000000
+      internalID: -1466353901365172313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/HalfCloseEyes
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 386
+        width: 65
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c211f5e1d4f135ff0800000000000000
+      internalID: -48660754888453844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Hand
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 12
+        width: 69
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c2d485f394c4df0800000000000000
+      internalID: -194700147470554025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Head
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 469
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e992560991e66fde0800000000000000
+      internalID: -1299730386374022754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Leg
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 386
+        width: 52
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c39b8c57553a390800000000000000
+      internalID: -7808303364563190674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaccoonFamily/RaccoonSon/Tail
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 386
+        width: 240
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682dd5721c2a2ea0800000000000000
+      internalID: -5896852304289781659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
